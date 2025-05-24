@@ -5,7 +5,13 @@
       "WebFetch(domain:docs.cursor.com)",
       "Bash(mkdir:*)",
       "Bash(ls:*)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(jq:*)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(chmod:*)",
+      "Bash(find:*)",
+      "Bash(git rm:*)",
+      "Bash(git restore:*)"
     ],
     "deny": []
   }
